@@ -1,5 +1,5 @@
 getwd()
-setwd("C:\\Users\\hardi\\Downloads")
+
 beer <- read.csv("Beer_SaoPaulo.csv")
 install.packages("ggdensity")
 
